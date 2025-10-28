@@ -1,8 +1,7 @@
 
 # Bioinformatics Workflows
 
-This repository documents major bioinformatics workflows such as Microarray, RNA-Seq, Alternative Splicing, Genome Assembly, Variant Calling, QIIME2, Bismark, MAFFT, and ChIP-Seq.  
-Each section includes placeholders where you can later add your own commands, R code, and notes.
+This repository documents major bioinformatics workflows such as Microarray, RNA-Seq, Alternative Splicing, Genome Assembly, Variant Calling, Metagenomic Analysis, Methyl Sequencing Analysis and ChIP-Seq Analysis.
 
 ---
 
